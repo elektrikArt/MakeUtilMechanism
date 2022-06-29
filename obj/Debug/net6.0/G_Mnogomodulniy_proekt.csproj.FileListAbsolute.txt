@@ -1,0 +1,15 @@
+C:\Users\musli\dev\c#\route256\G_Mnogomodulniy_proekt\bin\Debug\net6.0\G_Mnogomodulniy_proekt.exe
+C:\Users\musli\dev\c#\route256\G_Mnogomodulniy_proekt\bin\Debug\net6.0\G_Mnogomodulniy_proekt.deps.json
+C:\Users\musli\dev\c#\route256\G_Mnogomodulniy_proekt\bin\Debug\net6.0\G_Mnogomodulniy_proekt.runtimeconfig.json
+C:\Users\musli\dev\c#\route256\G_Mnogomodulniy_proekt\bin\Debug\net6.0\G_Mnogomodulniy_proekt.dll
+C:\Users\musli\dev\c#\route256\G_Mnogomodulniy_proekt\bin\Debug\net6.0\G_Mnogomodulniy_proekt.pdb
+C:\Users\musli\dev\c#\route256\G_Mnogomodulniy_proekt\obj\Debug\net6.0\G_Mnogomodulniy_proekt.csproj.AssemblyReference.cache
+C:\Users\musli\dev\c#\route256\G_Mnogomodulniy_proekt\obj\Debug\net6.0\G_Mnogomodulniy_proekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musli\dev\c#\route256\G_Mnogomodulniy_proekt\obj\Debug\net6.0\G_Mnogomodulniy_proekt.AssemblyInfoInputs.cache
+C:\Users\musli\dev\c#\route256\G_Mnogomodulniy_proekt\obj\Debug\net6.0\G_Mnogomodulniy_proekt.AssemblyInfo.cs
+C:\Users\musli\dev\c#\route256\G_Mnogomodulniy_proekt\obj\Debug\net6.0\G_Mnogomodulniy_proekt.csproj.CoreCompileInputs.cache
+C:\Users\musli\dev\c#\route256\G_Mnogomodulniy_proekt\obj\Debug\net6.0\G_Mnogomodulniy_proekt.dll
+C:\Users\musli\dev\c#\route256\G_Mnogomodulniy_proekt\obj\Debug\net6.0\refint\G_Mnogomodulniy_proekt.dll
+C:\Users\musli\dev\c#\route256\G_Mnogomodulniy_proekt\obj\Debug\net6.0\G_Mnogomodulniy_proekt.pdb
+C:\Users\musli\dev\c#\route256\G_Mnogomodulniy_proekt\obj\Debug\net6.0\G_Mnogomodulniy_proekt.genruntimeconfig.cache
+C:\Users\musli\dev\c#\route256\G_Mnogomodulniy_proekt\obj\Debug\net6.0\ref\G_Mnogomodulniy_proekt.dll
